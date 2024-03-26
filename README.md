@@ -1,12 +1,14 @@
 # neural-network-challenge-1
 
 ## The subject of this exercise is Student Loan Risk with Deep Learning
-- Using tools such as:
-- [Pandas](https://pandas.pydata.org/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Keras](https://www.tensorflow.org/guide/keras)
-- [Scikit-Learn](https://scikit-learn.org/stable/index.html)
-- and a csv file provided by [edx](https://www.edx.org/boot-camps/coding)
+- The objective is to create a Machine Learning model to predict/recommend the Aproval or Decline of Loan applications.
+- To accomplish this goal the following tools where used:
+  - [Pandas](https://pandas.pydata.org/)
+  - [TensorFlow](https://www.tensorflow.org/)
+  - [Keras](https://www.tensorflow.org/guide/keras)
+  - [Scikit-Learn](https://scikit-learn.org/stable/index.html)
+  - and a csv file provided by [edx](https://www.edx.org/boot-camps/coding)
+
 
 ## The Process
 1. Review the data to check how balanced or inbalanced the available data is
